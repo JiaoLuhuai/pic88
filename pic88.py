@@ -1,6 +1,6 @@
 # Authored by Luhuai Jiao
 # This is a 1D simulation of "two-stream instability" in Plasma Physicis. 
-# Some settings of grids and particles are from "Introduction to Computational Plasma Physics"(《计算等离子体物理导论》，谢华生著)
+# Some settings of the grids and particles are taken from "Introduction to Computational Plasma Physics"(ISBN: 9787030563675)
 
 import taichi as ti
 
